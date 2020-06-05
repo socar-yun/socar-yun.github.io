@@ -46,8 +46,8 @@
 bundle exec jekyll serve
 ```
 
-### 원격 빌드
-- Github 저장소에 Push
+### 원격 빌드 
+- Github 저장소에 Push.
 
 ### 글 작성
 - ```_featured_categories```, ```_featured_tags``` 설정한 후, ```_posts```에 글을 작성합니다
